@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://ashenox.com'),
   title: 'ASHENOX — Built in Silence. Revealed with Impact.',
   description: 'Ashenox is crafting the future of branding, design, motion and digital experiences. Something worth the wait.',
+  icons: {
+    icon: '/fevicon.png',
+  },
   openGraph: {
     title: 'ASHENOX — Built in Silence. Revealed with Impact.',
     description: 'Ashenox is crafting the future of branding, design, motion and digital experiences.',
