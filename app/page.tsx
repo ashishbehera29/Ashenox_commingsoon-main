@@ -482,7 +482,7 @@ function GlassCard({
         <div style={{ marginBottom: '10px' }}>
           <h1
             style={{
-              fontSize: 'clamp(1.7rem, 5.1vw, 3.3rem)',
+              fontSize: 'clamp(1.5rem, 5.1vw, 3.3rem)',
               fontWeight: 700,
               lineHeight: 1.08,
               fontFamily: "'Space Grotesk', sans-serif",
