@@ -94,8 +94,8 @@ function CountdownTimer() {
   const getTimeLeft = () => {
     // 14 September 2026, 10:00 AM IST
     const target = new Date(
-      '2026-09-14T10:00:00+05:30'
-    ).getTime();
+  '2026-10-04T10:00:00+05:30'
+).getTime();
 
     const now = new Date().getTime();
     const difference = Math.max(target - now, 0);
