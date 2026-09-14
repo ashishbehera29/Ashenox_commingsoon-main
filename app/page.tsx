@@ -337,7 +337,7 @@ function CountdownTimer() {
           color: 'rgba(255,255,255,0.2)',
         }}
       >
-        14 September 2026 · 10:00 AM
+        4 October 2026 · 10:00 AM
       </div>
     </motion.div>
   );
